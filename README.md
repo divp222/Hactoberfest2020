@@ -1,4 +1,4 @@
 # Write code in your own language.
-# you can also add links to learn web development or coding.
+# add links to learn coding free.
 
 [![Hactoberfest](https://hacktoberfest.digitalocean.com/)]
